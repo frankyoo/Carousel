@@ -50,6 +50,6 @@ Saving the photo tiles moving with scrolling to the end
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](x.gif)
+![Video Walkthrough](carousel.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
