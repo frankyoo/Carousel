@@ -2,7 +2,7 @@
 
 This is an iOS demo application for the signup/signin flow of the Carousel app.
 
-Time spent: 10 hours spent in total
+Time spent: 14 hours spent in total
 
 Completed user stories:
 
