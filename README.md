@@ -1,5 +1,4 @@
-# Dropbox
-Carousel assignment
+# Carousel
 
 This is an iOS demo application for the signup/signin flow of the Carousel app.
 
