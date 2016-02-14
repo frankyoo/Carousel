@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C2864A601C6E7CC50083A9E9 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2864A5F1C6E7CC50083A9E9 /* SettingsViewController.swift */; };
+		C2864A621C7078370083A9E9 /* CreateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2864A611C7078370083A9E9 /* CreateViewController.swift */; };
 		C28A9C511C6DC56A0043F43B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28A9C501C6DC56A0043F43B /* AppDelegate.swift */; };
 		C28A9C531C6DC56A0043F43B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28A9C521C6DC56A0043F43B /* ViewController.swift */; };
 		C28A9C561C6DC56A0043F43B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C28A9C541C6DC56A0043F43B /* Main.storyboard */; };
@@ -14,6 +16,13 @@
 		C28A9C5B1C6DC56A0043F43B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C28A9C591C6DC56A0043F43B /* LaunchScreen.storyboard */; };
 		C28A9C661C6DC56A0043F43B /* CarouselTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28A9C651C6DC56A0043F43B /* CarouselTests.swift */; };
 		C28A9C711C6DC56A0043F43B /* CarouselUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28A9C701C6DC56A0043F43B /* CarouselUITests.swift */; };
+		C28A9C7F1C6DC8800043F43B /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28A9C7E1C6DC8800043F43B /* Common.swift */; };
+		C28A9C811C6DCC3F0043F43B /* IntroScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28A9C801C6DCC3F0043F43B /* IntroScrollViewController.swift */; };
+		C28A9C831C6DCF510043F43B /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28A9C821C6DCF510043F43B /* LoginViewController.swift */; };
+		C28A9C851C6DEBAE0043F43B /* WelcomeScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28A9C841C6DEBAE0043F43B /* WelcomeScrollViewController.swift */; };
+		C28A9C871C6DFC2E0043F43B /* FeedScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28A9C861C6DFC2E0043F43B /* FeedScrollViewController.swift */; };
+		C28A9C891C6E79690043F43B /* ConversationsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C28A9C881C6E79690043F43B /* ConversationsViewController.swift */; };
+		C2C1616F1C708AC600A21E7C /* TermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C1616E1C708AC600A21E7C /* TermsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +43,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C2864A5F1C6E7CC50083A9E9 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		C2864A611C7078370083A9E9 /* CreateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateViewController.swift; sourceTree = "<group>"; };
 		C28A9C4D1C6DC56A0043F43B /* Carousel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Carousel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C28A9C501C6DC56A0043F43B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C28A9C521C6DC56A0043F43B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +58,13 @@
 		C28A9C6C1C6DC56A0043F43B /* CarouselUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CarouselUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C28A9C701C6DC56A0043F43B /* CarouselUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselUITests.swift; sourceTree = "<group>"; };
 		C28A9C721C6DC56A0043F43B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C28A9C7E1C6DC8800043F43B /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
+		C28A9C801C6DCC3F0043F43B /* IntroScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IntroScrollViewController.swift; sourceTree = "<group>"; };
+		C28A9C821C6DCF510043F43B /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		C28A9C841C6DEBAE0043F43B /* WelcomeScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeScrollViewController.swift; sourceTree = "<group>"; };
+		C28A9C861C6DFC2E0043F43B /* FeedScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedScrollViewController.swift; sourceTree = "<group>"; };
+		C28A9C881C6E79690043F43B /* ConversationsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversationsViewController.swift; sourceTree = "<group>"; };
+		C2C1616E1C708AC600A21E7C /* TermsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +95,7 @@
 		C28A9C441C6DC56A0043F43B = {
 			isa = PBXGroup;
 			children = (
+				C2864A5F1C6E7CC50083A9E9 /* SettingsViewController.swift */,
 				C28A9C4F1C6DC56A0043F43B /* Carousel */,
 				C28A9C641C6DC56A0043F43B /* CarouselTests */,
 				C28A9C6F1C6DC56A0043F43B /* CarouselUITests */,
@@ -97,9 +116,17 @@
 		C28A9C4F1C6DC56A0043F43B /* Carousel */ = {
 			isa = PBXGroup;
 			children = (
+				C28A9C7E1C6DC8800043F43B /* Common.swift */,
 				C28A9C501C6DC56A0043F43B /* AppDelegate.swift */,
 				C28A9C521C6DC56A0043F43B /* ViewController.swift */,
 				C28A9C541C6DC56A0043F43B /* Main.storyboard */,
+				C2C1616E1C708AC600A21E7C /* TermsViewController.swift */,
+				C2864A611C7078370083A9E9 /* CreateViewController.swift */,
+				C28A9C881C6E79690043F43B /* ConversationsViewController.swift */,
+				C28A9C861C6DFC2E0043F43B /* FeedScrollViewController.swift */,
+				C28A9C841C6DEBAE0043F43B /* WelcomeScrollViewController.swift */,
+				C28A9C821C6DCF510043F43B /* LoginViewController.swift */,
+				C28A9C801C6DCC3F0043F43B /* IntroScrollViewController.swift */,
 				C28A9C571C6DC56A0043F43B /* Assets.xcassets */,
 				C28A9C591C6DC56A0043F43B /* LaunchScreen.storyboard */,
 				C28A9C5C1C6DC56A0043F43B /* Info.plist */,
@@ -256,8 +283,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2C1616F1C708AC600A21E7C /* TermsViewController.swift in Sources */,
+				C2864A621C7078370083A9E9 /* CreateViewController.swift in Sources */,
+				C28A9C851C6DEBAE0043F43B /* WelcomeScrollViewController.swift in Sources */,
+				C28A9C811C6DCC3F0043F43B /* IntroScrollViewController.swift in Sources */,
 				C28A9C531C6DC56A0043F43B /* ViewController.swift in Sources */,
+				C28A9C891C6E79690043F43B /* ConversationsViewController.swift in Sources */,
+				C28A9C7F1C6DC8800043F43B /* Common.swift in Sources */,
+				C28A9C871C6DFC2E0043F43B /* FeedScrollViewController.swift in Sources */,
+				C28A9C831C6DCF510043F43B /* LoginViewController.swift in Sources */,
 				C28A9C511C6DC56A0043F43B /* AppDelegate.swift in Sources */,
+				C2864A601C6E7CC50083A9E9 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -482,6 +518,7 @@
 				C28A9C771C6DC56A0043F43B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C28A9C781C6DC56A0043F43B /* Build configuration list for PBXNativeTarget "CarouselTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +527,7 @@
 				C28A9C7A1C6DC56A0043F43B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		C28A9C7B1C6DC56A0043F43B /* Build configuration list for PBXNativeTarget "CarouselUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +536,7 @@
 				C28A9C7D1C6DC56A0043F43B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
