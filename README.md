@@ -8,7 +8,7 @@ Time spent: 10 hours spent in total
 Completed user stories:
 
  * [x] Static photo tiles on the initial screen
- * [] Optional: Photo tiles move with scrolling
+ * [x] Optional: Photo tiles move with scrolling
 Sign In
  * [x] Tapping on email/password reveals the keyboard and shifts the scrollview and Sign In button up.
 Upon tapping the Sign In button.
@@ -36,14 +36,14 @@ Settings
  * [x] User can dismiss the settings screen.
  * [x] User can log out
 Learn more about Carousel
- * [] Optional: Show the "Learn more about Carousel" button in the photo timeline.
- * [] Optional: Tap the X to dismiss the banner
- * [] Optional: Track the 3 events:
- * [] View a photo full screen
- * [] Swipe left and right
- * [] Share a photo
- * [] Optional: Upon completion of the events, mark them green.
- * [] Optional: When all events are completed, dismiss the banner.
+ * [-] Optional: Show the "Learn more about Carousel" button in the photo timeline.
+ * [-] Optional: Tap the X to dismiss the banner
+ * [-] Optional: Track the 3 events:
+ * [-] View a photo full screen
+ * [-] Swipe left and right
+ * [-] Share a photo
+ * [-] Optional: Upon completion of the events, mark them green.
+ * [-] Optional: When all events are completed, dismiss the banner.
 
 Notes:
 Saving the photo tiles moving with scrolling to the end
